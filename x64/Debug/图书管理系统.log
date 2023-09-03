@@ -1,0 +1,4 @@
+﻿  源.cpp
+F:\Liberary_manager\图书管理系统\源.cpp(320,39): warning C4305: “*=”: 从“double”到“float”截断
+F:\Liberary_manager\图书管理系统\源.cpp(323,39): warning C4305: “*=”: 从“double”到“float”截断
+  图书管理系统.vcxproj -> F:\Liberary_manager\图书管理系统\x64\Debug\图书管理系统.exe
